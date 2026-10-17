@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![mSSA — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # Multivariate Singular Spectrum Analysis (mSSA)
 
 Multivariate Singular Spectrum (mSSA) is an algorithm for multivariate time series forecasting and imputation. 
@@ -58,4 +62,19 @@ Refer to the documentation of the mSSA class in [here](API.md).
 ## Example
 We provide a running example for both synthetic and real-world datasets in a python notebook in the mssa/examples folder. [Here](/mssa/examples/mSSA_notebook_example.ipynb).
 ## License 
-This work is licensed under the Apache 2.0 License. 
+This work is licensed under the Apache 2.0 License.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:selected-result -->
+
+## 已有结果展示
+
+![原示例 Notebook 保存的一天超前预测：预测均值、区间与实际时间序列对照。](assets/readme/result.png)
+
+原示例 Notebook 保存的一天超前预测：预测均值、区间与实际时间序列对照。 该图为仓库已有上游示例，保留原有来源；本次仅整理展示，未重新运行。 [查看来源](https://github.com/GISWLH/mSSA/blob/master/mssa/examples/mSSA_notebook_example.ipynb)。
+
+<!-- /readme-visual-refresh:selected-result -->
